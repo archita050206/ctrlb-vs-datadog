@@ -255,7 +255,7 @@ export default function DatadogAlternative() {
               )}
             >
               <Image
-                src="/logo-black.svg"
+                src=""
                 alt="CtrlB"
                 width={94}
                 height={28}
@@ -272,7 +272,7 @@ export default function DatadogAlternative() {
               {/* Datadog asset has more canvas padding than CtrlB, so it needs
                   a taller box to read at the same optical size. */}
               <Image
-                src="/datadog-logo.svg"
+                src=""
                 alt="Datadog"
                 width={560}
                 height={150}
