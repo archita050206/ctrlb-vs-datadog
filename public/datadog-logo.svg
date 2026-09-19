@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title">
+  <title id="title">Datadog</title>
+  <g fill="#632ca6">
+    <path d="M61 21h55v18H81v72h35v18H61z"/>
+    <path d="M93 39h34v18H93zm0 36h34v18H93z"/>
+    <path d="M144 21h22v108h-22zM157 21h42c30 0 49 20 49 54s-19 54-49 54h-42V21zm22 19v70h18c18 0 28-12 28-35s-10-35-28-35h-18z"/>
+    <path d="M266 21h22v108h-22zM301 21h22v108h-22zM279 65h44v19h-44z"/>
+    <path d="M359 21h22l31 54V21h22v108h-22l-31-54v54h-22zM466 21h22l25 47 25-47h22l-36 66v42h-22V87z"/>
+  </g>
+</svg>
